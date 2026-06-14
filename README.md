@@ -26,8 +26,8 @@ This project uses Python's built-in Turtle Graphics library to draw multiple rot
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/colorful-turtle-spiral.git
-cd colorful-turtle-spiral
+git clone https://github.com/Ezz08/GenerativeArt.git
+cd GenerativeArt
 ```
 
 ### Run the Project
